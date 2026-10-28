@@ -13,3 +13,6 @@ data/processed
 
 # MacOS
 .DS_Store
+
+# Generated simulation results
+results/
