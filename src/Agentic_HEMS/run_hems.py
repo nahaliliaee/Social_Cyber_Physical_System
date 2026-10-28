@@ -2,7 +2,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from hems_env import HEMSEnvironment
+from Agentic_HEMS.hems_env import HEMSEnvironment
 
 
 def main() -> None:
